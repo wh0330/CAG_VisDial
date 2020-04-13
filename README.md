@@ -2,7 +2,7 @@ Iterative Context-Aware Graph Inference for Visual Dialog
 ====================================
 
 
-![alt text](https://github.com/wh0330/CAG/blob/master/framework.png)
+![alt text](https://github.com/wh0330/CAG_VisDial/blob/master/image/framework.png)
 <p align="center">The overall framework of Context-Aware Graph.</p>
 
 
