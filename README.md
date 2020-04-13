@@ -54,7 +54,7 @@ Evaluation
 Evaluation of a trained model checkpoint can be done as follows:
 
 ```sh
-python eval/evaluatepy --model_path [path_to_root]/save/XXXXX.pth --cuda
+python eval/evaluate.py --model_path [path_to_root]/save/XXXXX.pth --cuda
 ```
 This will generate an EvalAI submission file, and you can submit the json file to [online evaluation server][5] to get the result on v1.0 test-std.
 
