@@ -13,13 +13,12 @@ This is a PyTorch implementation for [Iterative Context-Aware Graph Inference fo
 If you use this code in your research, please consider citing:
 
 ```text
-@misc{guo2020iterative,
-    title={Iterative Context-Aware Graph Inference for Visual Dialog},
-    author={Dan Guo and Hui Wang and Hanwang Zhang and Zheng-Jun Zha and Meng Wang},
-    year={2020},
-    eprint={2004.02194},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
+@InProceedings{Guo_2020_CVPR,
+author = {Guo, Dan and Wang, Hui and Zhang, Hanwang and Zha, Zheng-Jun and Wang, Meng},
+title = {Iterative Context-Aware Graph Inference for Visual Dialog},
+booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2020}
 }
 
 ```
